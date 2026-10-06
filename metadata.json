@@ -1,0 +1,6 @@
+{
+  "name": "BloodBridge",
+  "description": "Emergency Blood Availability, Blood Bank Live Stock, and Donor Matching System with SOS broadcasts, 90-day medical cooldown, and eligibility screening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
